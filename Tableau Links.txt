@@ -1,0 +1,19 @@
+TABLEAU LINKS
+
+CUSTOMERS PER COUNTRY
+https://public.tableau.com/app/profile/nick.nejadfard/viz/CustomersPerCountry3_10/CustomersPerCountry?publish=yes
+
+TOP 5 CUSTOMERS 
+https://public.tableau.com/authoring/Top5Customers_16846328261450/Top5Customers#1
+
+TOP 10 CITIES
+https://public.tableau.com/app/profile/nick.nejadfard/viz/Top10Cities_16846348792210/Top10Cities?publish=yes
+
+TOTAL REVENUE BY COUNTRY
+https://public.tableau.com/app/profile/nick.nejadfard/viz/TotalRevenuebyCountry_16846885402580/Sheet1?publish=yes
+
+TOTAL REVENUE BY MOVIE TITLE
+https://public.tableau.com/app/profile/nick.nejadfard/viz/TotalRevenuebyMovieTitle/TotalRevenuebyMovieTitle?publish=yes
+
+TOTAL REVENUE BY FILM RATING
+https://public.tableau.com/app/profile/nick.nejadfard/viz/TotalRevenuebyFilmRating/TotalRevenuebyFilmRating?publish=yes
